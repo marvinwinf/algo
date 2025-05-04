@@ -1,0 +1,5 @@
+directed
+A,1,B,
+A,3,C,
+B,1,D,
+C,-2,D,
